@@ -18,6 +18,8 @@
 
 **Ember.js**：Ember.js是基于Model–view–viewmodel模式的开源JavaScript Web框架。它允许开发人员通过将常用习惯用语和最佳实践合并到框架中来创建可伸缩的单页Web应用程序。Ember在许多流行的网站上使用，包括Apple Music Square，Inc.。https://emberjs.com/
 
+**Django**: Django是一个开放源代码的Web应用框架，由Python写成。采用了MTV的软件设计模式，即模型，视图和模板。它在开发初期用于管理劳伦斯出版集团旗下的一些以新闻为主的网站。Django于2005年7月在BSD许可证下发布，它的名字来源于比利时的吉普赛爵士吉他手金格·莱恩哈特。https://www.djangoproject.com/
+
 ## 在线服务
 
 **Read the Docs**：Read the Docs是一个基于Sphinx的免费文档托管项目，目前已经托管了超过90000份文档。2011年3月9日，Python软件基金会曾给Read the Docs拨款840美元供服务器托管，2017年11月13日Linux Mint宣布将所有文档转移到Read the Docs。 https://readthedocs.org/
