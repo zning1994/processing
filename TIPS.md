@@ -10,6 +10,7 @@
 * [慧响寰宇 Withounder Universe](https://universe.withounder.com/)
 * [~~我的目标与任务 Gitbook - 暂时废弃~~](https://aims.zning.me/)
 * [~~智凝聚财 - 暂时废弃~~](https://credit.zning.me/)
+* [~~毕业设计公开进度网站 - 已废弃 但有部分资料~~](https://gd.zning.me/)
 
 ### 技术网站
 
