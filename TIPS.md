@@ -2,6 +2,10 @@
 
 ## 已经建设的网站
 
+### 特别意义
+
+* [90ITer官方网站](https://90iter.com)
+
 ### 个人资源独立网站
 
 * [个人文集《理想之路》中文版 *Ideal Boulevard* Chinese Edition](https://idealboulevard.com/) （lixiangzhilu.com重定向至此）
@@ -26,6 +30,10 @@
 * [Markdown语法参考](https://mdman.zning.me/)
 * []()
 * []()
+
+### 其他
+
+* [永远喜欢可可味！いつもkokomiが大好き！](http://kokomi.fans/)
 
 ## 生活常识
 
