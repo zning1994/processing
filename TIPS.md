@@ -8,10 +8,12 @@
 
 ### 个人资源独立网站
 
+> 本小节网站基本为**张宁网**或者**慧响**自媒体已发表文章归类整理后的集合存档，资源会与**张宁网**或者**慧响**自媒体有重复，但适合根据类别快速查找以及搜索引擎SEO。
+
 * [个人文集《理想之路》中文版 *Ideal Boulevard* Chinese Edition](https://idealboulevard.com/) （lixiangzhilu.com重定向至此）
 * [行业专著《互联生态论》中文版  *Ecology of Internet* Chinese Edition](https://ecologyofinternet.com/)
 * [　小说　《四月，晴》Gitbook](https://apr-sunny.book.zning.me/)
-* [慧响寰宇 Withounder Universe](https://universe.withounder.com/)
+* [最新文集《慧响寰宇》中文版 *Withounder Universe* Chinese Edition](https://universe.withounder.com/)
 * [~~我的目标与任务 Gitbook - 暂时废弃~~](https://aims.zning.me/)
 * [~~智凝聚财 - 暂时废弃~~](https://credit.zning.me/)
 * [~~毕业设计公开进度网站 - 已废弃 但有部分资料~~](https://gd.zning.me/)
