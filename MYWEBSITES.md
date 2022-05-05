@@ -1,6 +1,8 @@
 
 # 已经建设的网站
 
+**核心站点**：[张宁网](https://www.zning.net.cn)、[张宁网(2022新版)(在建)](https://zning.net)、[慧响源创库](https://zning.me)
+
 ## 特别意义
 
 * [90ITer官方网站](https://90iter.com)
