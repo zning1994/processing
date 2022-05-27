@@ -6,6 +6,10 @@ ZNing
 
 2020-2-9
 
+## 索引网站
+
+[LeetCode Records in Notion](https://leetcode.zning.me/)(网站使用Github Page 做301)
+
 ## 各种记录
 [记录有用的东西](./USEFULTHINGS.md)
 
