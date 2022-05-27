@@ -1,5 +1,12 @@
 # 记录有用的东西
 
+## 大学课程
+
+> 下面这俩课是Twitter看到的，挺火的，据说实验比较难，做出来还是有点成就感的。如果UoB成行可以多研究研究，所以记录一下。
+
+* MIT 6.824: Distributed Systems: https://pdos.csail.mit.edu/6.824/
+* CMU 15-445/645 DATABASE SYSTEMS: https://15445.courses.cs.cmu.edu/
+
 ## 开源软件
 
 **Sphinx**： Sphinx是Python社区编写和使用的文档生成器。它是用Python编写的，也可以在其他环境中使用。https://www.sphinx-doc.org/
