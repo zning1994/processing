@@ -45,3 +45,9 @@
 
 **QuestDB**：QuestDB is an open source database designed to make time-series lightning fast and easy. It exposes a high performance REST API and is Postgres compatible. <https://questdb.io>
 
+## 产品
+
+* **Meta 商店**：FRL（Facebook Reality Lab）的一些设备，其实是Metaverse的一些东西。AR/VR、智能音箱等内容。还有涉及到AR/VR游戏等:
+    * Meta Qculus Quest: <https://store.facebook.com/quest> <https://www.oculus.com/>
+    * Meta Quest Store: <https://www.oculus.com/experiences/quest/>
+
