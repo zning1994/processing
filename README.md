@@ -11,18 +11,18 @@ ZNing
 [LeetCode Records in Notion](https://leetcode.zning.me/)(网站使用Github Page 做301)
 
 ## 各种记录
-[记录有用的东西](./USEFULTHINGS.md)
+[记录有用的东西](./USEFULTHINGS)
 
-[TIPS](./TIPS.md)
+[TIPS](./TIPS)
 
-[已建设网站](./MYWEBSITES.md)
+[已建设网站](./MYWEBSITES)
 
 [UoB Dubai CS](./items/UoB Dubai CS)
 
 ## 各种公开
-[晓辉读书会第2期《如何成为专家》共读作业记录](./items/2020-2-10%20如何成为专家.md)
+[晓辉读书会第2期《如何成为专家》共读作业记录](./items/2020-2-10%20如何成为专家)
 
-[亚马逊领导力准则](./items/2020-3-8%20亚马逊领导力准则.md)
+[亚马逊领导力准则](./items/2020-3-8%20亚马逊领导力准则)
 
-[晓辉读书会第3期《能力陷阱》共读作业记录](./items/2020-3-8%20能力陷阱.md)
+[晓辉读书会第3期《能力陷阱》共读作业记录](./items/2020-3-8%20能力陷阱)
 
