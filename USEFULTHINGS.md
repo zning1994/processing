@@ -36,6 +36,7 @@
 * **卡拉云低代码工具**: 创始人给我发邮件加友链，在硅谷创业的无代码平台。<https://kalacloud.com>
 * **Discord**: Discord是一款专为社群设计的免费网络实时通话软件与数字发行平台，主要针对游戏玩家、教育人士、朋友及商业人士，用户之间可以在软体的聊天频道通过讯息、图片、影片和音讯进行交流。这款软件可以在Microsoft Windows、macOS、Android、iOS、Linux和网页上运行。<https://discord.com/>
 * **Grok Debug**: 可以匹配生成Grok Rules用于logstash等组件。<https://grokdebug.herokuapp.com/>
+* **DigitalOcean - Developer Tools**: DigitalOcean及其社区开发者提供的一系列开发者小工具，包括SPF Explainer、DNS Lookup、Glob Tool、NGINXConfig、Bandwidth Calculator、JavaScript Minify Tool等<https://www.digitalocean.com/community/tools>
 
 ## 时序数据库
 
