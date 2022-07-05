@@ -14,6 +14,7 @@
 * **Ansible**： Ansible是一种开源软件配置，配置管理和应用程序部署工具。它可以在许多类Unix系统上运行，并且可以配置类Unix系统和Microsoft Windows。它包含自己的声明性语言来描述系统配置。Ansible由Michael DeHaan编写，并于2015年被Red Hat收购。<https://www.ansible.com/>
 * **NodeBB**： NodeBB 是 一种基于Node.js 构建的电子公告牌系统，基于ES5标准开发。它使用多种数据库储存数据，在GNU General Public License v3 许可证下发行。<https://nodebb.org/>
 * **Flarum**：Flarum 是一款优雅简洁论坛软件。 让在线交流变得更加轻松愉快。Flarum 基于 PHP 构建，因此很容易安装部署。界面使用 [Mithril](http://mithril.js.org/) 构建，Mithril 是一个高性能的 JavaScript 框架。更少的等待，更多的交流。<https://flarum.org/ https://flarum.org.cn/>
+* **Nightingale | 夜莺监控**: 一款先进的开源云原生监控分析系统，采用 All-In-One 的设计，集数据采集、可视化、监控告警、数据分析于一体，与云原生生态紧密集成，提供开箱即用的企业级监控分析和告警能力。于 2022 年 5 月 11 日，捐赠予中国计算机学会开源发展委员会(CCF ODC)，为 CCF ODC 成立后接受捐赠的首个开源项目。<https://n9e.github.io/>
 
 
 ## 开源框架
