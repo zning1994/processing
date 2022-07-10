@@ -39,6 +39,7 @@
 * **Grok Debug**: 可以匹配生成Grok Rules用于logstash等组件。<https://grokdebug.herokuapp.com/>
 * **DigitalOcean - Developer Tools**: DigitalOcean及其社区开发者提供的一系列开发者小工具，包括SPF Explainer、DNS Lookup、Glob Tool、NGINXConfig、Bandwidth Calculator、JavaScript Minify Tool等<https://www.digitalocean.com/community/tools>
 * **Unix时间戳在线转换 Epoch Convert**: <https://www.epochconvert.com/>
+* **Jiumo Search 鸠摩搜索 - 文档搜索引擎**: <https://www.jiumodiary.com/>
 
 ## 时序数据库
 
