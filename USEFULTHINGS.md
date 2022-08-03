@@ -14,6 +14,7 @@
 > 其他收藏。
 
 * DevOps-Guide: <https://github.com/Tikam02/DevOps-Guide>
+* Rust by Example: <https://doc.rust-lang.org/rust-by-example/>
 
 ## 开源软件
 
