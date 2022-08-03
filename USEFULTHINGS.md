@@ -7,6 +7,10 @@
 * MIT 6.824: Distributed Systems: <https://pdos.csail.mit.edu/6.824/>
 * CMU 15-445/645 DATABASE SYSTEMS: <https://15445.courses.cs.cmu.edu/>
 
+> 下面这个是浏览知乎看到的一个比较好的网站，特意收藏至此。
+
+* CS自学指南: <https://csdiy.wiki/> Github: <https://github.com/pkuflyingpig/cs-self-learning/>
+
 ## 开源软件
 
 * **Sphinx**： Sphinx是Python社区编写和使用的文档生成器。它是用Python编写的，也可以在其他环境中使用。<https://www.sphinx-doc.org/>
