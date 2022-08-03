@@ -1,6 +1,6 @@
 # 记录有用的东西
 
-## 大学课程
+## 课程与指南
 
 > 下面这俩课是Twitter看到的，挺火的，据说实验比较难，做出来还是有点成就感的。如果UoB成行可以多研究研究，所以记录一下。
 
@@ -10,6 +10,10 @@
 > 下面这个是浏览知乎看到的一个比较好的网站，特意收藏至此。
 
 * CS自学指南: <https://csdiy.wiki/> Github: <https://github.com/pkuflyingpig/cs-self-learning/>
+
+> 其他收藏。
+
+* DevOps-Guide: <https://github.com/Tikam02/DevOps-Guide>
 
 ## 开源软件
 
