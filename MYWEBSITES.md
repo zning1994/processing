@@ -46,3 +46,4 @@
 ## 其他
 
 * [永远喜欢可可味！いつもkokomiが大好き！](http://kokomi.fans/)
+* [多邻国Duolingo邀请](https://invite.duolingo.com/BDHTZTB5CWWKTYGFJSKI4YQYXM)
