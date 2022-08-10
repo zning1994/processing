@@ -62,10 +62,14 @@
 
 ## 生活
 
+* **The Run Philosophy Organization**: You know what. But this information need judge before using them and carefully agree upon. Homepage: <https://github.com/The-Run-Philosophy-Organization> Repo: <https://github.com/The-Run-Philosophy-Organization/run>
+
+### 在迪拜
+
+* Your Online Bicycle Superstore in UAE CycleSouq.com <https://cyclesouq.com/>
 * **Property Finder**: 可以查到迪拜阿联酋的房产买卖租房的信息。<https://www.propertyfinder.ae/> 
 * **bayut**: 同上。<https://www.bayut.com/>
 * **dubizzle**: 同上。<https://dubai.dubizzle.com/en/property-for-rent/residential/>
 * **How to Buy & Rent Property in Dubai (Ultimate Guide)**: <https://www.youtube.com/watch?v=9KJBhk7aBFQ>
 * **10 Things You Need To Know Before Renting a Property in Dubai**: <https://www.youtube.com/watch?v=YZbeRD9b2EM>
-* **The Run Philosophy Organization**: You know what. But this information need judge before using them and carefully agree upon. Homepage: <https://github.com/The-Run-Philosophy-Organization> Repo: <https://github.com/The-Run-Philosophy-Organization/run>
 
