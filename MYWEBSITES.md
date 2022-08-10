@@ -43,10 +43,6 @@
 * []()
 * []()
 
-## 在迪拜
-
-* [Your Online Bicycle Superstore in UAE | CycleSouq.com](https://cyclesouq.com/)
-
 ## 其他
 
 * [永远喜欢可可味！いつもkokomiが大好き！](http://kokomi.fans/)
