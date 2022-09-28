@@ -1,8 +1,8 @@
 title: Processing
 show_downloads: false
 safe: true
-url: https://processing.zning.me
-enforce_ssl: processing.zning.me
+url: https://processing.zning.net
+enforce_ssl: processing.zning.net
 timezone: Asia/Shanghai
 author: ZNing
 
