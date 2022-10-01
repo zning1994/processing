@@ -49,6 +49,7 @@
 * **DigitalOcean - Developer Tools**: DigitalOcean及其社区开发者提供的一系列开发者小工具，包括SPF Explainer、DNS Lookup、Glob Tool、NGINXConfig、Bandwidth Calculator、JavaScript Minify Tool等<https://www.digitalocean.com/community/tools>
 * **Unix时间戳在线转换 Epoch Convert**: <https://www.epochconvert.com/>
 * **Jiumo Search 鸠摩搜索 - 文档搜索引擎**: <https://www.jiumodiary.com/>
+* **为你的项目创建必要的 .gitignore 文件**: <https://www.toptal.com/developers/gitignore>
 
 ## 时序数据库
 
